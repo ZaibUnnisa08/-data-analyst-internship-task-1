@@ -1,4 +1,4 @@
-# Data Analyst Internship – Task 1
+# Data Analyst Internship – Customer Personality Analysis
 
 ## Data Cleaning and Preprocessing
 
